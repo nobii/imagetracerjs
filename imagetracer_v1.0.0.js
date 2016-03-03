@@ -136,7 +136,7 @@ For more information, please refer to <http://unlicense.org/>
 */
 
 
-function ImageTracer(){
+export default function ImageTracer(){
 	var _this = this;
 
 	////////////////////////////////////////////////////////////
