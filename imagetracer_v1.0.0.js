@@ -138,6 +138,7 @@ For more information, please refer to <http://unlicense.org/>
 
 export default function ImageTracer(){
 	var _this = this;
+	let k;
 
 	////////////////////////////////////////////////////////////
 	//
